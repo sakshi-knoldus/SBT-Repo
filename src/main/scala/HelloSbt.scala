@@ -1,5 +1,5 @@
 object Hello{
     def main(args :Array[String])={
-        println("hello SBT!")
+        println("Hello SBT!")
     }
 }
